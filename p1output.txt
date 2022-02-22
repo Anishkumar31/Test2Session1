@@ -1,1 +1,8 @@
-
+ gcc -g p1original.c -lm
+ ./a.out
+enter the points
+1
+1
+2
+2
+distance between 1.000000, 2.000000 and 1.000000,2.000000 is 1.414214 
