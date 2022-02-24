@@ -7,3 +7,4 @@ the 7 th fibonacci number is 8
 enter the number
 8
 the 8 th fibonacci number is 13
+l
